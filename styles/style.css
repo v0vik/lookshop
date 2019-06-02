@@ -218,7 +218,7 @@ a:hover {
 .slider {
     height: 505px;
     background-color: rgb(245, 242, 236);
-    grid-template-columns: 30px auto auto auto 30px;
+    grid-template-columns: 30px auto 240px auto 30px;
     grid-template-rows: auto 117px auto 65px;
     background-image: url("../img/Slider_background1.png");
     background-position-x: right;
